@@ -1,0 +1,52 @@
+
+#DateRow{
+    display: flex;
+    align-items: center;
+    margin-left: 25px;
+    margin-right: 25px;
+    background-color: rgb(27, 142, 187);
+    padding: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: aliceblue;
+    border-radius: 25px;
+}
+
+#calander{
+    margin-left: 10px;
+}
+
+@media (min-width: 576px) {
+    .btn.btn-secondary.btn-lg.dropdown-toggle {
+        width: 120px; 
+        margin-left: 25px; 
+    }
+}
+
+.btn{
+    margin-left: 10px;
+}
+
+.btn.btn-info{
+    color: white;
+}
+
+.ButtonRow{
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 250px;
+    margin-top: 50px;
+}
+
+.table{
+    background-color: aqua;
+}
+
+#lblDate1{
+    margin-left: 25px;
+}
+
+#lblDate2{
+    margin-left: 35px;
+}
+
